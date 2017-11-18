@@ -25,7 +25,7 @@ body {
 .left {
     opacity: 0.5px;
     border: 1px solid #61e542;
-    height: 500px;
+    height: 800px;
     width: 300px;
     color: gray;
     font-size: 15px;
@@ -95,7 +95,17 @@ height: 20px;
     margin-top: 0
 }
 .z h2{
-    margin-top: 0
+    margin-top: 0;
+    text-align: center;
+    
+}
+a{
+    text-decoration: none;
+    color: gray
+}
+.x{
+    height: 25px;
+    margin-top: 25px
 }
 .qwer{
     height: 13px;
@@ -104,6 +114,9 @@ height: 20px;
     margin-right: 10px;
     margin-left: 10px
 }
-.glav{text-align: center
-    
+.b{
+    margin-left: 290px
+}
+.i{
+    margin-left: 10px
 }
